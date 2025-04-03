@@ -1,0 +1,59 @@
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe.licenses
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\bin\Debug\Guna.UI2.dll
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Dashboard.resources
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Medicines.resources
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Customers.resources
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Manufacturer.resources
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Sellers.resources
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Sellings.resources
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\obj\Debug\Pharmacy.Customers.resources
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\obj\Debug\Pharmacy.Dashboard.resources
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\obj\Debug\Pharmacy.Manufacturer.resources
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\obj\Debug\Pharmacy.Medicines.resources
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\obj\Debug\Pharmacy.Sellers.resources
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\obj\Debug\Pharmacy.Sellings.resources
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\obj\Debug\Pharmacy.exe.licenses
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\bin\Debug\Guna.UI2.dll
+C:\Users\Arsela Bita\OneDrive - University of New York of Tirana\Desktop\UNYT Arsela Bita\THE SECOND YEAR 2022-2023\Semester 1\Programming in C#\Ex\Pharmacy_ArselaBita\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\bin\Debug\Guna.UI2.dll
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\obj\Debug\Pharmacy.Customers.resources
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\obj\Debug\Pharmacy.Dashboard.resources
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\obj\Debug\Pharmacy.Manufacturer.resources
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\obj\Debug\Pharmacy.Medicines.resources
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\obj\Debug\Pharmacy.Sellers.resources
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\obj\Debug\Pharmacy.Sellings.resources
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\obj\Debug\Pharmacy.exe.licenses
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\obj\Debug\Pharmacy.csproj.Up2Date
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Arsela Bita\Documents\GitHub\PharmaManagSys\ThePROJECT\pharmasys\Pharmacy\obj\Debug\Pharmacy.pdb
